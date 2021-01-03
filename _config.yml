@@ -20,7 +20,7 @@ locale: en-US
 title: "Suyong's Blog"
 description: "MSCS @ UCLA"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://swa770.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/assets/img/profile_photo.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
