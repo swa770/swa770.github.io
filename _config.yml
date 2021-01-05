@@ -94,14 +94,17 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
+  name: Su Yong Won
+  picture: "/images/profile_photo.jpg"
   email:
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/won-suyong-50ba1a8a/
+      icon: fab fa-linkedin
+    - title: Github
+      url: https://github.com/swa770/
+      icon: fab fa-github
 
 # Footer Links
 footer_links:
